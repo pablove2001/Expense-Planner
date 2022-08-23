@@ -1,7 +1,7 @@
 <div>
 <h1  align="center">Expense Planner</h1>
 
-<h3  align="center">Plan your expenses using <a  href="https://duos2-expense-planner.netlify.app/" target="_blank">this</a> website</h3>
+<h3  align="center">Plan your expenses using <a  href="https://pve-expense-planner.netlify.app/" target="_blank">this</a> website</h3>
 </div>
 
 <p  align="center">
@@ -32,7 +32,7 @@ This website allows you to plan your expenses based on your budget. All your exp
 
 ## How to use it?
 
-- First click <a href="https://duos2-expense-planner.netlify.app/" target="_blank">here</a>
+- First click <a href="https://pve-expense-planner.netlify.app/" target="_blank">here</a>
 - Then add a budget
 - To add an expense press the button at the bottom right and fill in the fields
 - To edit an expense swipe it to the right
